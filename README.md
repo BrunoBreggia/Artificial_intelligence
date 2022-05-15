@@ -3,7 +3,11 @@
 In this repository I recrete some of the most common Machine Learning techniques.
 All code was adapted from ["Python Engineer"](https://www.youtube.com/c/PythonEngineer?app=desktop) Youtube channel
 
-![Diagram](https://www.profesionalreview.com/wp-content/uploads/2019/08/Deep-Learning-1.jpeg)
+<p align="center">
+  <img src="https://lh4.googleusercontent.com/pFgrzbW3ANnhtjKxgRDOE-m_rlAAso8zSMc26Btcr8CAWUa3sYlvS_Wrl6MONX857urjvD7clxaw8Eu3lUKzt8fi47co5YaDuJxEDgPj9Mi8HxzA2t2mEBcgVB53kpvM8hD9ZDFj" width="300" title="Golden Section Method">
+</p>
+
+## Algoritmos implementados
 
 * Decision Tree
 * Random Forest
