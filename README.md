@@ -3,7 +3,7 @@
 In this repository I recrete some of the most common Machine Learning techniques.
 All code was adapted from ["Python Engineer"](https://www.youtube.com/c/PythonEngineer?app=desktop) Youtube channel
 
-![Diagram](https://www.datacatchup.com/wp-content/uploads/2019/05/image.png)
+![Diagram](https://www.profesionalreview.com/wp-content/uploads/2019/08/Deep-Learning-1.jpeg)
 
 * Decision Tree
 * Random Forest
